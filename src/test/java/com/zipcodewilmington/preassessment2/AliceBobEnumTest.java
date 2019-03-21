@@ -1,12 +1,16 @@
 package com.zipcodewilmington.preassessment2;
 
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 /**
  * Created by leon on 3/4/18.
  */
 public class AliceBobEnumTest {
+    @Before
+
+
     @Test
     public void testAliceName() {
         // Given
